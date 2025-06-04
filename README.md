@@ -1,2 +1,2 @@
-# Utility Repor
-This Spacec is for DataStructure &amp; Algorithm code of C++
+# Utility Repository
+This repository contains C++ code for data structures and algorithms.
