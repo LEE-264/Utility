@@ -1,2 +1,2 @@
 # Utility Repository
-This repository contains C++ code for data structures and algorithms.
+This repository contains C/C++ code for data structures and algorithms.
